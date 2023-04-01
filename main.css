@@ -235,10 +235,10 @@ main .text h4
 
 }
 
-main .text p
+main .text h5
 {
   padding-top: 30px;
-  font-size: 5px;
+  font-size: 18px;
   margin: auto;
   color: white;
   font: 100 normal 2.5em 'tahoma';
@@ -246,6 +246,7 @@ main .text p
   font-weight: 10000;
   text-shadow: 3px 1px #222324, 1px 2px #222324, 1px 3px #222324;
 }
+
 
 /* Styling the interview and publications section */
 .Interview-publication
