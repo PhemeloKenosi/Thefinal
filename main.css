@@ -824,15 +824,13 @@ footer {
       
       }
       
-      main .text p
+       main .text h5
       {
-        font-size: 20px;
+        font-size: 18px;
         text-align: center;
         text-shadow: none;
         font-weight: 50000;
-        text-shadow: 2px 1px #222324, 1px 3px #222324, 1px 3px #222324;
-  
-        
+        text-shadow: 1px 1px #222324, 1px 1px #222324, 1px 1px #222324;
       }
 
 
